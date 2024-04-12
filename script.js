@@ -3,8 +3,9 @@ const convertBtn = document.getElementById("convert-btn");
 const result = document.getElementById("result");
 
 const checkUserInput = () => {
-  if (!numberInput.value) {
-
+  if (!numberInput.value || isNaN(parseInt(numberInput.value))) {
+    alert("Please provide a decimal number");
+    
   }
 
   console.log(numberInput.value);
