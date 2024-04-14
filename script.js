@@ -30,8 +30,13 @@ const decimalToBinary = (input) => {
 
 const showAnimation = () => {
   result.innerText = "Call Stack Animation";
+
   animationData.forEach((obj) => {
-    
+    setTimeout(() => {
+      animationContainer.innerHTML += `
+        <p id=""></p>
+      `;
+    }, obj.addElDelay);
   });
 };
 
