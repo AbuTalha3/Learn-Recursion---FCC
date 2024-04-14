@@ -3,11 +3,15 @@ const convertBtn = document.getElementById("convert-btn");
 const result = document.getElementById("result");
 
 const decimalToBinary = (input) => {
-  if (input === 0) {
-    return "";
+  if (input === 0 || input === 1) {
+    return String(input);
   } else {
     return decimalToBinary(Math.floor(input / 2)) + (input % 2);
   }
+};
+
+const showAnimation = () => {
+
 };
 
 const checkUserInput = () => {
@@ -15,6 +19,8 @@ const checkUserInput = () => {
     alert("Please provide a decimal number");
     return;
   }
+
+
 
   result.textContent = decimalToBinary(parseInt(numberInput.value));
   numberInput.value = "";
