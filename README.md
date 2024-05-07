@@ -1,6 +1,6 @@
 # Decimal to Binary Converter using Recursion
 Overview
-This project is a decimal-to-binary converter implemented in JavaScript using recursion. Recursion is a programming concept where a function calls itself to solve a problem by breaking it down into smaller sub-problems.
+This project is a `decimal-to-binary converter` implemented in JavaScript using recursion. Recursion is a programming concept where a function calls itself to solve a problem by breaking it down into smaller sub-problems.
 
 # Features
 Converts decimal numbers to binary using recursion
