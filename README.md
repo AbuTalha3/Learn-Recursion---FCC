@@ -13,7 +13,7 @@ Navigate to the index.html file and open it in a web browser.
 Enter a decimal number in the input field and press the "Convert" button.
 Watch the animation as the decimal number is converted to binary using recursion.
 Implementation Details
-`converter.js:` Contains the JavaScript code for the decimal-to-binary conversion using recursion.
+`converter.js:` Contains the `JavaScript` code for the decimal-to-binary conversion using recursion.
 index.html: HTML file with the user interface for input and output display.
 styles.css: CSS file for styling the user interface and animation.
 LICENSE.md: MIT License file for the project's open-source status.
