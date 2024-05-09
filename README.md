@@ -9,7 +9,7 @@ MIT License for open use and modification
 How to Use
 Clone the repository to your local machine.
 Open the project in your preferred code editor.
-Navigate to the index.html file and open it in a web browser.
+Navigate to the 'index.html' file and open it in a web browser.
 Enter a decimal number in the input field and press the "Convert" button.
 Watch the animation as the decimal number is converted to binary using recursion.
 Implementation Details
