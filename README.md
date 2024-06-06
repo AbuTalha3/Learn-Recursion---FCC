@@ -11,7 +11,7 @@ Clone the repository to your local machine.
 Open the project in your preferred code editor.
 Navigate to the 'index.html' file and open it in a web browser.
 Enter a decimal number in the input field and press the "Convert" button.
-Watch the animation as the decimal number is converted to binary using recursion.
+Watch the animation as the 'decimal number' is converted to binary using recursion.
 Implementation Details
 `converter.js:` Contains the `JavaScript` code for the decimal-to-binary conversion using recursion.
 index.html: HTML file with the user interface for input and output display.
