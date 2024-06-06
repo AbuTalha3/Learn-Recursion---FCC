@@ -21,7 +21,7 @@ Visual Representation
 The conversion process is visually represented through an animation that demonstrates how recursion breaks down the decimal number into binary digits step by step.
 
 License
-This project is licensed under the MIT License. See the LICENSE.md file for more details.
+This project is 'licensed' under the MIT License. See the LICENSE.md file for more details.
 
 Contact
 For any inquiries or feedback, please contact [Your Name] at [your@email.com].
